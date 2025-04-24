@@ -2,7 +2,7 @@
 
 - Operating System:  Linux OR Windows OS
 - PHP Version: 8.1+
-- Installed Laravel
+- Technologies : Laravel and Vue Js
 
 **Setup Instructions**
 
@@ -27,8 +27,8 @@
 
 - User will see list of all fruits with maximum 10 fruits in one page.
 
-![Screenshot](/home/vivan/Pictures/Screenshot from 2025-04-24 10-47-23.png)
+![List Image](image.png)
 
 - User can add each fruit as favourite fruits and can see list of all favourite fruits with sum of nutritions facts of favourite fruits.
   
-  ![Screenshot](/home/vivan/Pictures/Screenshot from 2025-04-24 10-47-50.png)
+![favourite fruits](image-1.png)
